@@ -1,2 +1,4 @@
-# Chat-Gpt-Api-Replica
- Ai quote generator in style of Chat Gpt. Prompt is based on the users input.
+# ChatGPT-JS 
+Đầu tiên cho nó vào localhost, thư mục là chat, xong rồi chạy http://localhost/chat
+--------------
+Xong
