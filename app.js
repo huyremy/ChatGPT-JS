@@ -14,7 +14,7 @@ function typeWriter(text, element, speed) {
 
 function getQuote() {
   //storing api key in variable to make dynamic
-  const apiKey = "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";
+  const apiKey = "sk-mbsjkládj34kádlkasjddljassdljasldjljasaskdsjdlak";
   // grabbing users value from input elements id
   const userPrompt = document.querySelector("#user-prompt").value;
   // variables below are specifying what game I want quotes from
